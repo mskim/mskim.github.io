@@ -5,10 +5,35 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2014-04-05T14:58:00+09:00</updated>
+  <updated>2014-04-05T17:32:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
+  <entry>
+    <title>DTP_3.0</title>
+    <link rel="alternate" href="http://blog.url.com/2014/04/05/dtp_3-0.html"/>
+    <id>http://blog.url.com/2014/04/05/dtp_3-0.html</id>
+    <published>2014-04-05T17:32:00+09:00</published>
+    <updated>2014-04-05T17:36:16+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="dtp-30"&gt;DTP 3.0&lt;/h1&gt;
+
+&lt;h2 id="what-is-happening-with-desk-top-publishing"&gt;What is happening with Desk Top Publishing?&lt;/h2&gt;
+
+&lt;p&gt;Are the print based publisher all dead?&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Ad revenues is going to web and mobile.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;It still cost  a lot to print, specially the editing process is kill the publisher.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</content>
+  </entry>
   <entry>
     <title>Launching my blog</title>
     <link rel="alternate" href="http://blog.url.com/2014/04/05/launching-my-blog.html"/>
